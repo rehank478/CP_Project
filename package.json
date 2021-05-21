@@ -1,0 +1,19 @@
+{
+  "name": "routing_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compile-run": "^2.3.4",
+    "compilex": "^0.7.4",
+    "diff": "^5.0.0",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.8.0"
+  }
+}
